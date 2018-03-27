@@ -1,0 +1,36 @@
+/* 
+Theme Name: Test Theme
+Author: Parmveer Singh
+Version: 1.0
+Description: Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen’s simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.
+*/
+body{
+	
+
+}
+.header-css{
+	color: #234;
+}
+.site-nav ul li{
+    display: inline-block;
+}
+.footer-nav ul li{
+	display: inline-block;
+}
+.site-nav li.current-menu-item a:visited{
+    color: red;
+    text-decoration: none;
+}
+a{
+	text-decoration: none;
+}
+article{
+	color: #342;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+.searchno form#searchform {
+    float: right;
+}
